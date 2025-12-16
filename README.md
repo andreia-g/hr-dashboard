@@ -1,3 +1,8 @@
+## Dashboard Preview
+
+![Dashboard Preview](powerbi/screenshots/01_dashboard_main.png)
+
+
 # HR Analytics Dashboard: Attrition, Compensation & Workforce Trends
 
 ## 📊 Project Overview
